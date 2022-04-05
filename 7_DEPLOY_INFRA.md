@@ -1,0 +1,13 @@
+# Overview
+- **CloudFormation: AWS -> ** Infra as Code, works with most AWS resources. Repeat across regions and accounts
+- **Beanstalk:** AWS -> PaaS. Limited to certain Programmming languages or Docker. Deploy code consisitently
+- **CodeDeploy:** Hybrid -> Deploy + upgrade any app onto server
+- **Systems Manager:** Hybrid ->  Patch, configure run commands at scale
+- **OpsWorks:** Hybrid ->  Manage Chef and Puppet in AWS
+- **CodeCommit:** Store code, private git repo
+- **CodeBuild:** Build and test code
+- **CodePipeline:** Orchestrate CI/CD pipeline. Code -> Build -> Test -> Deploy
+- **CodeArtifact:** Store software packages/ dependencies
+- **CodeStar:** Unified view for CI/CD and Code
+- **Cloud9:** Cloud IDE with collab
+- **AWS CDK:** Define cloud infgra using a programming language.
