@@ -1,6 +1,6 @@
 # Overview
-- **CloudFormation: AWS -> ** Infra as Code, works with most AWS resources. Repeat across regions and accounts
-- **Beanstalk:** AWS -> PaaS. Limited to certain Programmming languages or Docker. Deploy code consisitently
+- **CloudFormation:**  AWS -> Infra as Code, works with most AWS resources. Repeat across regions and accounts
+- **Beanstalk:** AWS -> PaaS. Limited to certain Programmming languages or Docker. Deploy code consistently
 - **CodeDeploy:** Hybrid -> Deploy + upgrade any app onto server
 - **Systems Manager:** Hybrid ->  Patch, configure run commands at scale
 - **OpsWorks:** Hybrid ->  Manage Chef and Puppet in AWS

@@ -1,0 +1,21 @@
+# Overview
+
+- **Shield:** AUto DDoS protection + 24/7 support for advanced
+- **WAF (Web app firewall):** Protects against common web exploits. Firewall to filter incoming requests based on rules.
+- **KMS:** Encryption Keys managed by AWS
+- **CloudHSM:** Hardware encryption, customer maange encryption keys
+- **Cert Manager:** provision. manage and deploy TLS/SSL certificates
+- **Artifact:** Get access to compliance reports
+- **GuardDuty** Find malicious behaviour with VPC, DNS and cloud trail logs
+- **Inspector:** EC2 only. Find vulnerabilities
+- **Config:** Track config changes and compliance against rules
+- **Macie:** Find sensitive data in S# buckets
+- **CloudTrail:** Track API calls made by users within account
+- **Security Hub:** Gather security findings from multiple AWS accounts
+- **Detective:** Find root cause of security issues or suspicious activity
+- **Abuse:** Report abuse of AWS resources
+- **Root user privileges:**
+  - Change account settings
+  - Close your AWS account
+  - Change/Cancel support plan
+  - Register as weller on Reserved instances marketplace
