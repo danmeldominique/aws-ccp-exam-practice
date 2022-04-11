@@ -8,6 +8,6 @@
 - **Device Farm:** Full managed way to test web and mobile apps against desktop browsers and real devices.
 - **Backup:** Fully managed, centrally manage backups across services. Cross region and account
 - **Disaster Recovery:** Backup and Restore, Pilot Light, Warm Standby, Multi site / Hot Site (in irder of cost, least to most)
-- **CloudEndure:**
-- **DataSync:**
-- **Fault Injection Simulator:**
+- **CloudEndure:** Company acquired by AWS. Recover physical, virtual adn cloud-based servers into AWS. Continuous block level replication for servers.
+- **DataSync:** Move data from on premise to AWS. can sync to: S3, EFS, FSx for Windows.Replication incremental after first load.
+- **Fault Injection Simulator:** Run fault injection experiments on AWS workloads
